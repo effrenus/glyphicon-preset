@@ -1,0 +1,22 @@
+{
+  "name": "glyphicon-preset",
+  "version": "1.0.0",
+  "description": "Support for GlyphIcon in YMaps.GeoObject",
+  "scripts": {
+    "build": "ymb build",
+    "watch": "ymb watch",
+    "lint": "eslint ./src",
+    "serve": "python -m SimpleHTTPServer 8000"
+  },
+  "keywords": ["yandex", "maps", "api", "preset"],
+  "author": "Alexey Sazonov",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-config-yandex": "^1.0.5",
+    "gulp-babel": "^6.1.1",
+    "ymb": "^0.3.45"
+  }
+}
