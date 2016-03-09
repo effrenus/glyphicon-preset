@@ -37,6 +37,11 @@ Params
 | `iconGlyphColor` | inherited | color, supports HEX, RGB notation |
 | `iconGlyphSize` | inherited | size number |
 
+Demo
+----
+
+http://effrenus.github.io/glyphicon-preset/
+
 Building
 --------
 Use [ymb](https://www.npmjs.com/package/ymb) if re-build is needed.
