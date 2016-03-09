@@ -1,0 +1,6 @@
+{
+    "concatTo": "glyphIcon-preset.min.js",
+    "minify": true,
+    "namespace": "ymaps",
+    "babel": false
+}
